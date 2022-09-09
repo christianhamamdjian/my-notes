@@ -5,7 +5,7 @@
 #### Run The App Locally
 
 ```sh
-npm run install
+npm run install-dependencies
 ```
 
 - create .env file
