@@ -10,7 +10,7 @@ const initialFiltersState = {
   searchStatus: 'all',
   searchType: 'all',
   sort: 'latest',
-  sortOptions: ['latest', 'oldest', 'a-z', 'z-a'],
+  sortOptions: ['Latest', 'Oldest', 'A-Z', 'Z-A'],
 };
 
 const initialState = {

@@ -233,10 +233,6 @@ ul {
   transition: var(--transition);
 }
 
-.form:hover {
-  box-shadow: var(--shadow-4);
-}
-
 .form-label {
   display: block;
   font-size: var(--smallText);
